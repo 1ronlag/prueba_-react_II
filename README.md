@@ -14,3 +14,5 @@ Carrito de Compras
 ![image](https://user-images.githubusercontent.com/95989282/196062360-7e1de7a2-9e40-4a58-aef5-98a848b8e397.png)
 
 Page NotFound
+![image](https://user-images.githubusercontent.com/95989282/196063655-c769ec7a-50db-4466-b3c2-9354a47d8201.png)
+
