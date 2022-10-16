@@ -1,7 +1,6 @@
 Prueba React II 
 
-Link: 
-mamma-miaaaa.netlify.app
+Link: https://mamma-miaaaa.netlify.app/
 
 Home
 ![image](https://user-images.githubusercontent.com/95989282/196062293-400f6246-0184-42c1-82ca-0c48545ebcf1.png)
