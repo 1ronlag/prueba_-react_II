@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+background-image: url(../src/Assets/img/fondo2.jpg);
+background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.logo{
+
+width: 60%;
+
+}
+
+.active {
+  color: whitesmoke;
+  text-decoration: none;
+}
+.no-active {
+  color: gray;
+  text-decoration: none;
+}
+.nav-home{
+  font-size: 25px;
+
+}
+
+.nav-carrito{
+  font-size: 25px;
+
+}
+
+.Total{
+  color: yellow;
+
+font-size: 23px;
+
+}
+
+.Pizzas{
+padding-top: 5%;
+  
+}
